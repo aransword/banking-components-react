@@ -32,5 +32,4 @@
 ---
 
 ## 설치
-> 현재 NPM 배포는 아직 진행 중입니다.  
-> 추후 NPM 패키지로 설치 가능하도록 업데이트 예정입니다.
+> npm 링크(https://www.npmjs.com/package/banking-util)
